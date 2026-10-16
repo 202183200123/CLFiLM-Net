@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.idea/
+.venv/
+venv/
+data/
+datasets/
+*.pth
+*.pt
+*.ckpt
+*.xls
+*.xlsx
+vehicle_split_record.json
+*.png
+*.log

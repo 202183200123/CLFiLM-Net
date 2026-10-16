@@ -1,0 +1,11 @@
+# Install a compatible pair of torch and torchvision.
+torch
+torchvision
+transformers
+numpy
+pandas
+scikit-learn
+Pillow
+matplotlib
+openpyxl
+xlrd
